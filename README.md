@@ -11,5 +11,5 @@ Searching Algorithms.
  that is relatively efficient but more complex and difficult to program).
  
 Searching Algorithms examples and exercises we consider:
-* [Linear Search]()
+* [Linear Search](https://github.com/AlbertHambardzumyan/searching/blob/master/src/linear_search/LINEAR_SEARCH.md)
 * [Binary Search]()
