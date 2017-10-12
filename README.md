@@ -12,4 +12,4 @@ Searching Algorithms.
  
 Searching Algorithms examples and exercises we consider:
 * [Linear Search](https://github.com/AlbertHambardzumyan/searching/blob/master/src/linear_search/LINEAR_SEARCH.md)
-* [Binary Search]()
+* [Binary Search](https://github.com/AlbertHambardzumyan/searching/blob/master/src/binary_search/BINARY_SEARCH.md)
