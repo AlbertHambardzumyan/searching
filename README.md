@@ -13,3 +13,5 @@ Searching Algorithms.
 Searching Algorithms examples and exercises we consider:
 * [Linear Search](https://github.com/AlbertHambardzumyan/searching/blob/master/src/linear_search/LINEAR_SEARCH.md)
 * [Binary Search](https://github.com/AlbertHambardzumyan/searching/blob/master/src/binary_search/BINARY_SEARCH.md)
+* [Recursive Linear Search (Exercise)](https://github.com/AlbertHambardzumyan/searching/blob/master/src/recursive_linear_search/RECURSIVE_LINEAR_SEARCH.md)
+* [Recursive Binary Search (Exercise)](https://github.com/AlbertHambardzumyan/searching/blob/master/src/recursive_binary_search/RECURSIVE_BINARY_SEARCH.md)
